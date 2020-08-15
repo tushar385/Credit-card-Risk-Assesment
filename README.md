@@ -6,6 +6,6 @@ Usage -Credit risk shows the likelihood of a lender losing their loaned money to
 Steps Performed-  
 1- Exploring data.  
 2- Appling Satandard Scaler to data.  
-3- Using HyperParameter to get best parameter using RandomSerchCV & Xgboost.
-4- Appling Best Parameter to Xgboost Classifier.
-5- Checking Crossval Score.
+3- Using HyperParameter to get best parameter using RandomSerchCV & Xgboost.  
+4- Appling Best Parameter to Xgboost Classifier.  
+5- Checking Crossval Score.  
